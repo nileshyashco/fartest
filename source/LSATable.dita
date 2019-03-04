@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="lsa-d1e1"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+      <title class="- topic/title ">List of Sections Affected</title>
+      <conbody class="- topic/body  concept/conbody ">
+         <table frame="all"
+                colsep="1"
+                rowsep="1"
+                otherprops="LSA"
+                class="- topic/table ">
+            <title class="- topic/title ">FAC
+2019-01</title>
+            <tgroup cols="4"
+                    colsep="1"
+                    rowsep="1"
+                    outputclass="Title_rule"
+                    class="- topic/tgroup ">
+               <colspec colnum="1" colname="1" colwidth="19*" class="- topic/colspec "/>
+               <colspec colnum="2" colname="2" colwidth="27*" class="- topic/colspec "/>
+               <colspec colnum="3" colname="3" colwidth="27*" class="- topic/colspec "/>
+               <colspec colnum="4" colname="4" colwidth="27*" class="- topic/colspec "/>
+               <thead class="- topic/thead ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry ">Section</entry>
+                     <entry colname="2" class="- topic/entry ">Description of Change</entry>
+                     <entry colname="3" class="- topic/entry ">Case Number</entry>
+                     <entry colname="4" class="- topic/entry ">Effective Date</entry>
+                  </row>
+               </thead>
+               <tbody class="- topic/tbody ">
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1095538.dita#i1095538/d1484e153"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">22.1702
+definition, “Recruitment fees</xref>”</entry>
+                     <entry colname="2" class="- topic/entry ">Amend section 22.1702
+by adding, in alphabetical order, the definition “Recruitment fees”.</entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1095563.dita#i1095563/d1485e82"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">22.1703
+(a)(5)(i)</xref> and <xref href="FAR-i1095563.dita#i1095563/d1485e107"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(a)(6)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend
+section 22.1703 by—</p>
+                        <p class="- topic/p ">a. Revising paragraph
+(a)(5)(i); and</p>
+                        <p class="- topic/p ">b. Removing from paragraph (a)(6)
+“employees” and adding “employees or potential employees” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i52_212_5.dita#i52_212_5"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.212-5 </xref> 
+                        <xref href="FAR-i52_212_5.dita#i52_212_5/d3145e966"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(b)(33)(i)</xref> and <xref href="FAR-i52_212_5.dita#i52_212_5/d3145e2221"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(e)(1)(xiii)(A)</xref>;
+and <xref href="FAR-i52_212_5.dita#i52_212_5/d3145e2536"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">Alternate
+II</xref> and <xref href="FAR-i52_212_5.dita#i52_212_5/d3145e2702"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">(e)(1)(ii)(K)(1)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend
+section 52.212-5 by—</p>
+                        <p class="- topic/p ">a. Revising the
+date of the clause and paragraphs (b)(33)(i) and (e)(1)(xiii)(A);
+and</p>
+                        <p class="- topic/p ">b. In the Alternate II, revising
+the date and paragraph (e)(1)(ii)(K)(1)</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1061923.dita#i1061923"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.213-4 </xref> 
+                        <xref href="FAR-i1061923.dita#i1061923/d3150e298"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(a)(2)(viii)</xref> and <xref href="FAR-i1061923.dita#i1061923/d3150e487"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(b)(1)(viii)(A)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend
+section 52.213-4 by revising the date of the clause and paragraphs
+(a)(2)(viii) and (b)(1)(viii)(A).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>  
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+                  <row rowsep="1" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1056535.dita#i1056535"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.222-50</xref> 
+                        <xref href="FAR-i1056535.dita#i1056535/d3337e70" class="- topic/xref ">definition, “Recruitment
+fees”</xref>, <xref href="FAR-i1056535.dita#i1056535/d3337e591"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(b)(5)(i)</xref>, <xref href="FAR-i1056535.dita#i1056535/d3337e616"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(b)(6)</xref>, and <xref href="FAR-i1056535.dita#i1056535/d3337e1192"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(h)(3)(ii)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend
+section 52.222-50 by—</p>
+                        <p class="- topic/p ">a. Revising the
+date of the clause;</p>
+                        <p class="- topic/p ">b. Adding to paragraph
+(a), in alphabetical order, the definition “Recruitment fees”;</p>
+                        <p class="- topic/p ">c. Revising paragraph (b)(5)(i);</p>
+                        <p class="- topic/p ">d. Removing from paragraph (b)(6) “employees”
+and adding “employees or potential employees” in its place; and</p>
+                        <p class="- topic/p ">e. Removing from paragraph (h)(3)(iii)
+“employee,” and adding “employee or potential employee,” in its
+place.</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+                  <row rowsep="0" class="- topic/row ">
+                     <entry colname="1" class="- topic/entry "> 
+                        <xref href="FAR-i1048410.dita#i1048410"
+                              outputclass="fm:ParaNumOnly"
+                              class="- topic/xref ">52.244-6</xref> 
+                        <xref href="FAR-i1048410.dita#i1048410/d3614e315"
+                              outputclass="fm:subautonumber"
+                              class="- topic/xref ">(c)(1)(xiii)(A)</xref>
+                     </entry>
+                     <entry colname="2" class="- topic/entry ">
+                        <p class="- topic/p ">Amend
+section 52.244-6 by revising the date of the clause and paragraph
+(c)(1)(xiii)(A).</p>
+                     </entry>
+                     <entry colname="3" class="- topic/entry "> 
+                        <xref href="https://www.govinfo.gov/content/pkg/FR-2018-12-20/pdf/2018-27541.pdf"
+                              format="html"
+                              scope="external"
+                              class="- topic/xref ">FAR
+Case 2015-017</xref>
+                     </entry>
+                     <entry colname="4" class="- topic/entry ">January 22, 2019</entry>
+                  </row>
+               </tbody>
+            </tgroup>
+         </table>
+      </conbody>
+   </concept>
+</dita>

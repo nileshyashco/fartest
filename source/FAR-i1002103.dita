@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      domains="(topic task)              (topic concept)              (topic concept glossentry)              (topic concept glossgroup)              (topic reference)              (topic troubleshooting++task) (topic task)              (topic abbrev-d)              a(props deliveryTarget)              (topic equation-d)              (topic hazard-d)              (topic hi-d)              (topic indexing-d)              (topic markup-d)              (topic mathml-d)              (topic pr-d)              (topic relmgmt-d)              (topic sw-d)              (topic svg-d)              (topic ui-d)              (topic ut-d)              (topic markup-d xml-d)              (topic task strictTaskbody-c)  "
+      ditaarch:DITAArchVersion="1.3">
+  <concept id="i1002103"
+            otherprops="01-09"
+            outputclass="H3_01-09"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.3">
+      <title outputclass="H3_1_9" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">53.107</ph> Obtaining forms.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol class="- topic/ol " id="d3754e13">
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d3773e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  Executive agencies shall obtain standard and optional forms from the General Services Administration (GSA) by using GSA Supply Catalog-Office Products (see 41 CFR101-26.302). Standard forms adapted for computer preparation (see <xref href="FAR-i1002027.dita#i1002027"
+                        base="i1002027"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">53.105</xref>) or with special construction and printing (see <xref href="FAR-i1002039.dita#i1002039"
+                        base="i1002039"
+                        outputclass="fm:ParaNumOnly"
+                        class="- topic/xref ">53.106</xref>) that are not available from GSA may be ordered directly from the Government Printing Office (GPO).</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d3773e32" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  Contractors and other parties may obtain standard and optional forms from the Superintendent of Documents, GPO, Washington, DC 20402. Standard and optional forms not available from the Superintendent of Documents may be obtained from the prescribing agency.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d3773e41" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  Agency forms may be obtained from the prescribing agency.</p>
+            </li>
+         </ol>
+      </conbody>
+  </concept>
+</dita>

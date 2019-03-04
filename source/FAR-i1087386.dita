@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1087386"
+            otherprops="01-09"
+            outputclass="H3_01-09"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+      <title outputclass="H3_1_9" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">30.102</ph> Cost
+Accounting Standards Board Publication.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <p otherprops="Body" outputclass="Body" class="- topic/p ">Copies
+of the CASB Standards and Regulations are printed in Title48 of
+the <i class="+ topic/ph hi-d/i ">Code of Federal Regulations</i>,
+Chapter99, and may be obtained by writing the-</p>
+         <p otherprops="Address" outputclass="Address" class="- topic/p ">Superintendent
+of Documents, </p>
+         <p otherprops="Address" outputclass="Address" class="- topic/p ">US
+Government Printing Office, </p>
+         <p otherprops="Address" outputclass="Address" class="- topic/p ">Washington,
+DC 20402</p>
+         <p otherprops="Address" outputclass="Body_FL" class="- topic/p ">or
+by calling the Washington, DC, ordering desk at (202) 512-1800.</p>
+      </conbody>
+   </concept>
+</dita>

@@ -1,0 +1,1 @@
+   [filter] file:/C:/Users/tomal/Documents/CustomerFileActivelyworking/GSA/FAR/FAC_2019-01_Effective_1-22-19_DITA_V33/FAR-i1106135.dita:122:53: [DOTJ054E][ERROR] Unable to parse invalid href attribute value "http://ww w.acq.osd.mil/dpap/cpic/cp/contract_pricing_reference_guides.html", using 'http://ww%20w.acq.osd.mil/dpap/cpic/cp/contract_pricing_reference_guides.html'.

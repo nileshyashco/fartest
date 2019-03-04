@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="i1121746"
+          otherprops="Subpart"
+          outputclass="Subpart"
+          class="- topic/topic "
+          ditaarch:DITAArchVersion="1.2">
+      <title outputclass="Subpart" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">Subpart 4.14</ph> -
+Reporting Executive Compensation and First-Tier Subcontract Awards</title>
+   </topic>
+</dita>

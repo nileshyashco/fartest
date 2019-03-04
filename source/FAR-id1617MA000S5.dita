@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <topic id="id1617MA000S5"
+          otherprops="SubchapterPageLetter"
+          outputclass="SubchapterPageLetter"
+          class="- topic/topic "
+          ditaarch:DITAArchVersion="1.2">
+      <title outputclass="SubchapterPageLetter" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">Subchapter B</ph> -
+Competition and Acquisition Planning</title>
+   </topic>
+</dita>

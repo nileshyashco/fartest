@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE dita
+  PUBLIC "-//OASIS//DTD DITA Composite//EN" "ditabase.dtd">
+<dita xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/"
+      ditaarch:DITAArchVersion="1.2">
+   <concept id="i1123047"
+            otherprops="01-09"
+            outputclass="H3_01-09"
+            class="- topic/topic concept/concept "
+            ditaarch:DITAArchVersion="1.2">
+      <title outputclass="H3_1_9" class="- topic/title ">
+         <ph props="autonumber" class="- topic/ph ">4.402</ph> General.</title>
+      <conbody class="- topic/body concept/conbody ">
+         <ol id="d209e13" class="- topic/ol ">
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d211e17" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(a)</ph>
+                  
+                  
+                  
+                  Executive Order12829, January6,1993
+(58 FR3479, January8,1993), entitled “National Industrial Security
+Program” (NISP), establishes a program to safeguard Federal Government
+classified information that is released to contractors, licensees,
+and grantees of the United States Government. Executive Order12829
+amends Executive Order10865, February20,1960 (25 FR1583, February25,1960),
+entitled “Safeguarding Classified Information Within Industry,”
+as amended by Executive Order10909, January17,1961 (26 FR508, January20,1961).</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d211e26" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(b)</ph>
+                  
+                  
+                  
+                  The National Industrial Security
+Program Operating Manual (NISPOM) incorporates the requirements
+of these Executive orders. The Secretary of Defense, in consultation
+with all affected agencies and with the concurrence of the Secretary of
+Energy, the Chairman of the Nuclear Regulatory Commission, and the
+Director of Central Intelligence, is responsible for issuance and
+maintenance of this Manual. The following DoD publications implement
+the program:</p>
+               <ol id="d209e32" class="- topic/ol ">
+                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+                     <p id="d211e36" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph>
+                        
+                        
+                        
+                        National Industrial Security Program
+Operating Manual (NISPOM) (DoD 5220.22-M).</p>
+                  </li>
+                  <li otherprops="123" outputclass="H6_123" class="- topic/li ">
+                     <p id="d211e45" class="- topic/p ">
+                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
+                        
+                        
+                        
+                        Industrial Security Regulation
+(DoD 5220.22-R).</p>
+                  </li>
+               </ol>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d211e56" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(c)</ph>
+                  
+                  
+                  
+                  Procedures for the protection
+of information relating to foreign classified contracts awarded
+to U.S. industry, and instructions for the protection of U.S. information
+relating to classified contracts awarded to foreign firms, are prescribed in
+Chapter 10 of the NISPOM.</p>
+            </li>
+            <li otherprops="abc" outputclass="H5_abc" class="- topic/li ">
+               <p id="d211e65" class="- topic/p ">
+                  <ph props="autonumber" class="- topic/ph ">(d)</ph>
+                  
+                  
+                  
+                  
+                  <xref href="FAR-i1090283.dita#i1090283"
+                        base="i1090283"
+                        outputclass="fm:Part"
+                        class="- topic/xref ">part 27</xref>-Patents,
+Data, and Copyrights, contains policy and procedures for safeguarding
+classified information in patent applications and patents.</p>
+            </li>
+         </ol>
+      </conbody>
+   </concept>
+</dita>
