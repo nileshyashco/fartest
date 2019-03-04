@@ -11,7 +11,9 @@
          <ph props="autonumber" class="- topic/ph ">4.2001</ph> Definitions.</title>
       <conbody class="- topic/body concept/conbody ">
          <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
-         <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware, software, or service that–</p>
+         <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware,
+            <?oxy_comment_start author="Ayaskant Sahu" timestamp="20190304T201320+0000" comment="Test from AK"?>software,
+            or service <?oxy_comment_end?>that–Adding new Text</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <ol class="- topic/ol ">
@@ -25,11 +27,11 @@
                   </li>
                   <li class="- topic/li ">
                      <p id="d316e36" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(2)</ph>
-                        
-                        
-                        
-                        Includes any hardware, software, or service developed or provided in whole or in part by a covered entity; or</p>
+                        <ph props="autonumber" class="- topic/ph " conref="#id1897F0DI0UI">(2)</ph>
+                        Includes
+                        <?oxy_comment_start author="Ayaskant Sahu" timestamp="20190304T201334+0000" comment="I think this is correct"?>any
+                        hardware, software, or service developed or provided in whole or in part by
+                        a covered entity;<?oxy_comment_end?> or</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d316e45" class="- topic/p ">
