@@ -33,11 +33,9 @@
                   </li>
                   <li class="- topic/li ">
                      <p id="d316e45" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(3)</ph>
-                        
-                        
-                        
-                        Contains components using any hardware or software developed in whole or in part by a covered entity.</p>
+                        <ph props="autonumber" class="- topic/ph ">(3)</ph> Contains components
+                        using any hardware or software developed in whole or in part by a covered
+                        entity. New change added here for a new branch.</p>
                   </li>
                </ol>
             </li>
