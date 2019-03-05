@@ -13,14 +13,15 @@
          <p id="d316e21" class="- topic/p ">As used in this subpart—</p>
          <p id="d316e27fcp" class="- topic/p ">“Covered article” means any hardware,
             <?oxy_comment_start author="Ayaskant Sahu" timestamp="20190304T201320+0000" comment="Test from AK"?>software,
-            or service <?oxy_comment_end?>that–Adding new Text</p>
+            or service <?oxy_comment_end?>that–Adding new also here Text. Adding new text here.</p>
          <ol class="- topic/ol ">
             <li class="- topic/li ">
                <ol class="- topic/ol ">
                   <li class="- topic/li ">
                      <p id="d316e27" class="- topic/p ">
-                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Is developed or provided
-                        by a covered entity; here added second line</p>
+                        <ph props="autonumber" class="- topic/ph ">(1)</ph> Is developed or
+                        provi<?oxy_comment_start author="AK-BRAVENT" timestamp="20190305T144304+0000" comment="AK-2 testing"?>ded
+                        by a covered entit<?oxy_comment_end?>y; and here new one</p>
                   </li>
                   <li class="- topic/li ">
                      <p id="d316e36" class="- topic/p ">
